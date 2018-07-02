@@ -1,4 +1,4 @@
-Kotlin Hello World Demo
-=======================
+Kotlin LevelDB Demo
+===================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+More to see <https://github.com/fusesource/leveldbjni>
